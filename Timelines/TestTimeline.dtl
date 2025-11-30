@@ -1,0 +1,7 @@
+[background arg="res://Assets/pk/haikeisozai_kouen11.png" fade="0.0"]
+join Cecil left
+Cecil: Hi!  I'm Cecil.
+join Ramsey right [mirrored="true"]
+Ramsey: And I'm Ramsey.
+Cecil: Nice ta meetcha!
+Ramsey: Likewise.
