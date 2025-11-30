@@ -4,8 +4,6 @@ Test for Dialogic
 *Programming Lead:* Daniel Berry
 
 
-![Executable]()
-
 ## About
 This is a prototype testing Dialogic for the infrastructure of Brainbreakerz' visual novel system.
 
